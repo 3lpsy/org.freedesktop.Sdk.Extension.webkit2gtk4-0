@@ -1,0 +1,12 @@
+id: org.freedesktop.Sdk.Extension.webkit2gtk40
+branch: "24.08"
+runtime: org.freedesktop.Sdk
+runtime-version: "24.08"
+sdk: org.freedesktop.Sdk
+build-extension: true
+separate-locales: false
+appstream-compose: false
+build-options:
+  prefix: /usr/lib/sdk/webkit2gtk40
+modules:
+  - webkit2gtk.yaml

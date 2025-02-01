@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <id>org.freedesktop.Sdk.Extension.webkit2gtk4-0</id>
+  <extends>org.freedesktop.Sdk</extends>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>Webkit2Gtk</name>
+  <summary>Webkit2Gtk Library extension for the flatpak Freedesktop SDK</summary>
+  <description>Webkit2Gtk Library</description>
+  <project_license>LGPL-2.0-or-later AND BSD-2-Clause</project_license>
+  <url type="homepage">https://github.com/flathub/org.freedesktop.Sdk.Extension.webkit2gtk40</url>
+  <update_contact>https://github.com/flathub/org.freedesktop.Sdk.Extension.webkit2gtk40</update_contact>
+  <releases>
+    <release version="2.46.3" date="2024-10-30"/>
+  </releases>
+</component>
